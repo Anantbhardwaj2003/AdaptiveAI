@@ -1,0 +1,7 @@
+{
+  "name": "AdaptiveAI Studio",
+  "description": "An end-to-end platform for fine-tuning Small Language Models (SLM) and Open-weight LLMs, featuring a visual model playground and speech-to-text capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
